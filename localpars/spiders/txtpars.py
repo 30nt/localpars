@@ -22,4 +22,4 @@ class SpiderClass(Spider):
     start_urls = doc
 
     def parse(self, response):
-        print(response)
+        #print(response)
